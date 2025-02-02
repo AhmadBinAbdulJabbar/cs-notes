@@ -6,5 +6,5 @@
 		- [ ] [[Data Types]]
 		- [ ] [[If else statements]]
 		- [ ] [[Switch Statement]] 
-		- [ ] 
+		- [ ] [[Arrays]]
 		
