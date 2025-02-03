@@ -7,4 +7,10 @@
 		- [ ] [[If else statements]]
 		- [ ] [[Switch Statement]] 
 		- [ ] [[Arrays]]
+		- [ ] [[Strings]]
+		- [ ] [[For Loop]]
+		- [ ] [[While Loop]]
+		- [ ] [[Do While Loop]]
+		- [ ] [[Functions]]
+		- [ ] 
 		
